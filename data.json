@@ -2,15 +2,18 @@
     "announcements": [
         {
             "title": "Hult Prize 2020",
-            "description": "Instagram @hultprizemec"
+            "description": "Instagram @hultprizemec",
+            "link":"https://www.instagram.com/iedcmec/"
         },
         {
             "title": "ISRO Remote Sensing Outreach Programme",
-            "description": "Instagram @iedcmec"
+            "description": "Instagram @iedcmec",
+            "link":"https://www.instagram.com/iedcmec/""
         },
         {
             "title": "Revive- Idea Pitching Contest",
-            "description": "Instagram @iedcmec"
+            "description": "Instagram @iedcmec",
+            "link":"https://www.instagram.com/iedcmec/"
         }
     ]
 }
